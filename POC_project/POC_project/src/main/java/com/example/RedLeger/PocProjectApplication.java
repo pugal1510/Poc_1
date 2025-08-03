@@ -1,4 +1,4 @@
-package com.example.POC_project;
+package com.example.RedLeger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
